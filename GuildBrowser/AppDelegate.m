@@ -6,6 +6,7 @@
 {
     // Override point for customization after application launch.
     NSLog(@"This is the first commit");
+    NSLog(@"Second commmit");
     [self customizeAppearance];
     
     return YES;
