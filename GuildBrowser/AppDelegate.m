@@ -5,6 +5,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    NSLog(@"This is the first commit");
     [self customizeAppearance];
     
     return YES;
